@@ -59,7 +59,7 @@ A:admin@srl-2# show system application multicli
 
 ![MultiCLI Installation](assets/installation.gif)
 
-# Configuration
+## Configuration
 The configuration is extremely simple and intuitive, as it only requires two commands to enable the show commands available in the MultiCLI project for each third-party vendor.
 
 Note: Only one vendor can be enabled at a time.
