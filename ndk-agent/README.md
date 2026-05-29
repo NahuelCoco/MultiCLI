@@ -27,7 +27,7 @@ SR Linux 25.X:
 ```
 SR Linux 26.X - "clab-default" is used as the DNS instance name in this example.
 ```
-/ system dns-instance clab-default server-list [ 1.1.1.1 8.8.8.8 ]
+/ system dns-instance clab-default server-list [ 1.1.1.1 8.8.8.8 ] network-instance mgmt
 ```
 Install the agent from the SR Linux bash shell:
 ```
