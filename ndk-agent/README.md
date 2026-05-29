@@ -152,7 +152,7 @@ Description
 
 Try SR Linux command: show network-instance default protocols bgp summary
 ```
-If a local repository is preferred instead of the official one, it must be an exact clone of the official repository.
+If a local repository is preferred instead of the official one, it must be an exact clone of the official [repository](https://github.com/srl-labs/MultiCLI/tree/main) in `zip` format.
 Example using a local repository and enabling available Juniper show commands:
 ```
 / multicli enabled-nos juniper
