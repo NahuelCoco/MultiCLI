@@ -6,7 +6,7 @@ The MultiCLI Agent leverages these capabilities to streamline the deployment of 
 
 The MultiCLI Agent is supported on Nokia SR Linux 25.3.1 and later, as it is built using the [NDK v0.5.0](https://learn.srlinux.dev/ndk/releases/0.5/).
 
-# Installation
+## Installation
 Clone the repository.
 ```
 git clone https://github.com/srl-labs/MultiCLI.git
