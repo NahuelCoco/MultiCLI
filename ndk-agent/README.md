@@ -62,6 +62,10 @@ A:admin@srl-2# show system application multicli
 ## Configuration
 The configuration is extremely simple and intuitive, as it only requires two commands to enable the show commands available in the MultiCLI project for each third-party vendor.
 
+- configure the NOS to be enabled
+- configure the path to the MultiCLI scripts 
+
+
 Note: Only one vendor can be enabled at a time.
 
 By default, the agent uses the official [MultiCLI Github repository](https://github.com/srl-labs/MultiCLI), which requires internet access from the SR Linux node via the Management Network Instance. Since this is often not desirable in many environments, a different repository url can also be configured.
